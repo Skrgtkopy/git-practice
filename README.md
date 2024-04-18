@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-main branch で変更(コンフリクト発生)
+conflict branchで変更(コンフリクト発生)
+
